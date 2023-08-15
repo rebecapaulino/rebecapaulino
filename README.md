@@ -38,7 +38,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Minhas contribuições 🐍</h2>
 
 ![Snake animation](https://github.com/rebecapaulino/rebecapaulino/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
